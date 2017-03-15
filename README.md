@@ -11,7 +11,9 @@ Thus
             
              previous: minSdkVersion 23
 
-Updated: Tested on Moto G Android SDK 22
+Updated 1: Tested on Moto G Android SDK 22
+
+Update 2: Tested on Lenovo Android SDK 19 10.1' Tablet
             
             minSDKVersion 16.
             
