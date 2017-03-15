@@ -2,11 +2,20 @@
 The app demonstrates the use of the gmailauth library included in the repository.
 
 ## Add a Library
-The library is tested on Android SDK 23+
+
+Requirements device with Android API > 16 and a updated browser that supports Chrome Custom Tabs on Android e.g. Chrome.
+
+The library is tested on Android SDK 23+ 
 
 Thus            
             
-              minSdkVersion 23
+             previous: minSdkVersion 23
+
+Updated: Tested on Moto G Android SDK 22
+            
+            minSDKVersion 16.
+            
+Change the values in your app/build.gradle and gmailauth/build.gradle.
 
 Clone the Repository
 
